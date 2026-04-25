@@ -8,7 +8,7 @@ def atualizar_tarefa(id_tarefa, nova_descricao):
     print(f"Tarefa {id_tarefa} atualizada para: {nova_descricao}")
 
 def deletar_tarefa(id_tarefa):
-    print(f"Tarefa {id_tarefa} deletada com sucesso.")
+    print(f"Tarefa {id_tarefa} deletada com sucesso no sistema principal.")
 
 if _name_ == "_main_":
     criar_tarefa("Configurar o repositório Git")
