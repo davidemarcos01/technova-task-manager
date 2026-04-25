@@ -10,7 +10,7 @@ O TechNova Task Manager é uma API simples desenvolvida para resolver os problem
 
 ## 3. Como Rodar o Projeto
 1. Clone este repositório para a sua máquina local:
-   git clone https://github.com/AllanTheFrancisco/technova-task-manager.git
+   git clone https://github.com/davidemarcos01/technova-task-manager.git
 2. Acesse o diretório do projeto:
    cd technova-task-manager
 3. Execute o script principal via terminal:
